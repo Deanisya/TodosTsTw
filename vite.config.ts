@@ -9,6 +9,7 @@ export default defineConfig({
 		port: 3000,
 		open: true, // Открывает браузер автоматически
 	},
+	base: '/TodosTsTw/',
 	build: {
 		sourcemap: true,
 	},
